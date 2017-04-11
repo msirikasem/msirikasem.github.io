@@ -1,0 +1,49 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="msirikasem.com" resolutions="1x" timestamp="1491906559932">
+  <folder name="css">
+    <file name="site_global.css" crc="340715234"/>
+    <file name="master_a-master.css" crc="215933460" ref="index"/>
+    <file name="index.css" crc="4126589861" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="461409528" ref="index"/>
+    <file name="adobestock_141490461.jpg" crc="98931038" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web-wite-logo.svg" crc="333943338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web wite logo_poster_.png" crc="3800007685" ref="index"/>
+    <file name="p1-u720-r-fr.png" crc="167495478" ref="index"/>
+    <file name="img_3298-crop-u720.png" crc="3955799216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hover2-u726-r-fr.png" crc="14051622" ref="index"/>
+    <file name="19-crop.jpg" crc="270349254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hover3-u732-r-fr.png" crc="246713310" ref="index"/>
+    <file name="02-crop-u732.png" crc="4160978929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hover4-u735-r-fr.png" crc="234253184" ref="index"/>
+    <file name="scene-1-crop-u735.png" crc="4194341029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hover5-u738-r-fr.png" crc="4214775304" ref="index"/>
+    <file name="imac-mockup_sumit-crop-u738.png" crc="318314764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="290125807" seo="true" mt="1491906315825" redirect="true"/>
+</manifest>
